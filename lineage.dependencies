@@ -5,23 +5,18 @@
    "branch"     : "eleven"
  },
  {
-   "repository" : "Xirudly/android_device_xiaomi_cancro",
-   "target_path": "device/xiaomi/cancro",
-   "branch"     : "lineage-18.1"
- },
- {
    "repository" : "Xirudly/android_device_xiaomi_msm8974-common",
    "target_path": "device/xiaomi/msm8974-common",
    "branch"     : "lineage-18.1"
  },
  {
-   "repository" : "Mi3-4-Dev/android_vendor_xiaomi_cancro",
+   "repository" : "xiaomi-classic-dev/android_vendor_xiaomi_cancro",
    "target_path": "vendor/xiaomi/cancro",
-   "branch"     : "lineage-18.1"
+   "branch"     : "mkr-mr1"
  },
  {
-   "repository" : "Mi3-4-Dev/android_vendor_xiaomi_msm8974-common",
+   "repository" : "xiaomi-classic-dev/android_vendor_xiaomi_msm8974-common",
    "target_path": "vendor/xiaomi/msm8974-common",
-   "branch"     : "lineage-18.1"
+   "branch"     : "mkr-mr1"
  }
 ]
