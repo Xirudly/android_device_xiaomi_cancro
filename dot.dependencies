@@ -1,0 +1,47 @@
+[
+ {
+   "repository" : "Mi3-4-Dev/android_kernel_xiaomi_virgo",
+   "target_path": "kernel/xiaomi/virgo",
+   "branch"     : "lineage-18.1"
+ },
+ {
+   "repository" : "Xirudly/android_device_xiaomi_msm8974-common",
+   "target_path": "device/xiaomi/msm8974-common",
+   "branch"     : "lineage-18.1"
+ },
+ {
+   "repository" : "Mi3-4-Dev/android_vendor_xiaomi_cancro",
+   "target_path": "vendor/xiaomi/cancro",
+   "branch"     : "lineage-18.1"
+ },
+ {
+   "repository" : "Mi3-4-Dev/android_vendor_xiaomi_msm8974-common",
+   "target_path": "vendor/xiaomi/msm8974-common",
+   "branch"     : "lineage-18.1"
+ }，
+ {
+   "repository" : "LineageOS/android_hardware_qcom_audio",
+   "target_path": "hardware/qcom-caf/msm8974/audio",
+   "branch"     : "lineage-18.1-caf-msm8974"
+ }，
+ {
+   "repository" : "LineageOS/android_hardware_qcom_display",
+   "target_path": "hardware/qcom-caf/msm8974/display",
+   "branch"     : "lineage-18.1-caf-msm8974"
+ }，
+ {
+   "repository" : "LineageOS/android_hardware_qcom_media",
+   "target_path": "hardware/qcom-caf/msm8974/media",
+   "branch"     : "lineage-18.1-caf-msm8974"
+ }，
+ {
+   "repository" : "LineageOS/android_hardware_qcom_bt",
+   "target_path": "hardware/qcom-caf/bt",
+   "branch"     : "lineage-18.1-caf"
+ }，
+ {
+   "repository" : "LineageOS/android_hardware_libhardware",
+   "target_path": "hardware/libhardware",
+   "branch"     : "lineage-18.1"
+ }
+]
