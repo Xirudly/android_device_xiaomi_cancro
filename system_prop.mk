@@ -7,3 +7,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     audio.offload.video=false \
     persist.vendor.audio.fluence.speaker=false
+
+PRODUCT_PROPERTY_OVERRIDES += \
+    qemu.hw.mainkeys=0
+    
